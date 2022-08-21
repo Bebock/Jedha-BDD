@@ -22,4 +22,11 @@ Comme étape préliminaire à ce projet, il est demandé de :
   * Proposer deux premières cartographies 
     * 
 
+
+# Sites sources des données
+
+Informations des hôtels : www.booking.com
+Coordonnées GPS : https://nominatim.org/ (Documentation : https://nominatim.org/release-docs/develop/api/Search/)
+Données météorologiques : https://openweathermap.org/appid (inscription gratuite pour une utilisation limitée)
+
 ----
