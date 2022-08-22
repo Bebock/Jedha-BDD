@@ -84,7 +84,9 @@ Les notebooks peuvent s'utiliser les uns à la suite des autres ou indépendamme
 ### Outils
 
 Les notebooks ont été développés avec [Visual Studio Code](https://code.visualstudio.com/). 
-La partie ETL fonctionne avec un compte AWS (payant). 
+La partie ETL fonctionne avec : 
+  * Un compte [AWS](https://aws.amazon.com/fr/free/?trk=36ca612a-b750-4d2d-b0c1-7d0f0863c3d2&sc_channel=ps&sc_campaign=acquisition&sc_medium=ACQ-P|PS-GO|Brand|Desktop|SU|Core-Main|Core|FR|FR|Text&ef_id=Cj0KCQjw0oyYBhDGARIsAMZEuMtC9CPjQcfap_1XnHuom22cNnmJ3V9qER5-8zeyJvnF5VtnjJOCLQUaAtoIEALw_wcB:G:s&s_kwcid=AL!4422!3!563933958237!e!!g!!aws&ef_id=Cj0KCQjw0oyYBhDGARIsAMZEuMtC9CPjQcfap_1XnHuom22cNnmJ3V9qER5-8zeyJvnF5VtnjJOCLQUaAtoIEALw_wcB:G:s&s_kwcid=AL!4422!3!563933958237!e!!g!!aws&all-free-tier.sort-by=item.additionalFields.SortRank&all-free-tier.sort-order=asc&awsf.Free%20Tier%20Types=*all&awsf.Free%20Tier%20Categories=*all) (payant) 
+  * [PGAdmin](https://www.pgadmin.org/download/) 
 
 ### Auteurs & contributeurs
 
