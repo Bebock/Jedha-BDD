@@ -91,12 +91,12 @@ La partie ETL fonctionne avec :
 ### Auteurs & contributeurs
 
 Auteur : 
-  * Helene alias [@Bebock](https://github.com/Bebock)
+  * Helene alias [@Bebock](https://github.com/Bebock/)
 
 La dream team :
-  * Henri alias 
-  * Jean alias
-  * Nicolas alias 
+  * Henri alias [@]()
+  * Jean alias [@Chedeta](https://github.com/Chedeta/)
+  * Nicolas alias [@]()
   
 ### Sites sources des données
 
