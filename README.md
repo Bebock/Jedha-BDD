@@ -94,9 +94,9 @@ Auteur :
   * Helene alias [@Bebock](https://github.com/Bebock/)
 
 La dream team :
-  * Henri alias [@]()
+  * Henri alias [@HenriPuntous](https://github.com/HenriPuntous/)
   * Jean alias [@Chedeta](https://github.com/Chedeta/)
-  * Nicolas alias [@]()
+  * Nicolas alias [@NBridelance](https://github.com/NBridelance/)
   
 ### Sites sources des données
 
